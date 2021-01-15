@@ -1,0 +1,11 @@
+{
+  "name": "test-app2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:devbucket/test-app2.git",
+  "author": "devbucket <flomueller1981@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "test-common": "devbucket/test-common#3eed9d48a16229d0d6e8622711ad0e2f6c7aa8ca"
+  }
+}
